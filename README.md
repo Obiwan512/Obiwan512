@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Who am I?
 
-<!--
-**Obiwan512/Obiwan512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer focused on clean, practical backend solutions.
 
-Here are some ideas to get you started:
+🔧 What am I working on?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node.js APIs, .NET & Laravel MVC projects, and database-driven systems.
+
+🛠️ Tools I use
+
+Node.js, .NET (MVC, Windows Forms), Laravel, SQL/NoSQL databases, Git.
+
+📫 How to reach me
+
+GitHub (here) — open to Junior Backend Developer roles.
